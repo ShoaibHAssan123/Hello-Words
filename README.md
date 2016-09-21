@@ -1,2 +1,18 @@
 # Hello-Words
-first project in git hub 
+I made modifications
+first project in github
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
